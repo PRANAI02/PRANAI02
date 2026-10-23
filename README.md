@@ -22,13 +22,13 @@ I design and build websites for restaurants, cafes, bars and small businesses, p
 |---|---|---|
 | [Jagmount Projects](https://jagmount.vercel.app) · [code](https://github.com/PRANAI02/jagmount) | PEB & structural steel firm, Palwal | Next.js |
 | [DRES NIRMAN](https://dres-nirman.vercel.app) · [code](https://github.com/PRANAI02/dres-nirman) | Engineering & survey firm, Kurnool | Next.js |
-| [UGGU](https://uggu-zeta.vercel.app) · [code](https://github.com/PRANAI02/uggu) | Scroll-animated baby food brand | Vite + GSAP |
-| [littlediet](https://littlediet-one.vercel.app) · [code](https://github.com/PRANAI02/littlediet) | Baby weaning content site | Astro |
+| [UGGU](https://uggu-zeta.vercel.app) | Scroll-animated baby food brand | Vite + GSAP |
+| [littlediet](https://littlediet-one.vercel.app) | Baby weaning content site | Astro |
 | [Plug n Dine](https://plugndine.vercel.app) · [code](https://github.com/PRANAI02/highwaycharge) | EV charging pitch for highway restaurants | Next.js |
 
 #### Products
 
 | App | What it is | Stack |
 |---|---|---|
-| [Pep](https://pep-whoop.vercel.app) · [code](https://github.com/PRANAI02/pep) | WHOOP data as a ranked-season game | Next.js |
-| [Hundred Club](https://hundred-club.vercel.app) · [code](https://github.com/PRANAI02/hundred-club) | ₹100-per-task daily tracker | HTML/JS |
+| [Pep](https://pep-whoop.vercel.app) | WHOOP data as a ranked-season game | Next.js |
+| [Hundred Club](https://hundred-club.vercel.app) | ₹100-per-task daily tracker | HTML/JS |
