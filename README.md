@@ -20,7 +20,6 @@ I design and build websites for restaurants, cafes, bars and small businesses, p
 
 | Site | What it is | Stack |
 |---|---|---|
-| [Jagmount Projects](https://jagmount.vercel.app) · [code](https://github.com/PRANAI02/jagmount) | PEB & structural steel firm, Palwal | Next.js |
 | [DRES NIRMAN](https://dres-nirman.vercel.app) · [code](https://github.com/PRANAI02/dres-nirman) | Engineering & survey firm, Kurnool | Next.js |
 | [UGGU](https://uggu-zeta.vercel.app) | Scroll-animated baby food brand | Vite + GSAP |
 | [littlediet](https://littlediet-one.vercel.app) | Baby weaning content site | Astro |
